@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Password_game/static/css/main.77951aa3.css",
+    "main.js": "/Password_game/static/js/main.8f43fa48.js",
+    "static/js/787.335d502d.chunk.js": "/Password_game/static/js/787.335d502d.chunk.js",
+    "static/media/dog.jpg": "/Password_game/static/media/dog.8af698df68d0d7713073.jpg",
+    "static/media/sponsor.svg": "/Password_game/static/media/sponsor.f4bdd671818d7bac976fda7c16b97332.svg",
+    "index.html": "/Password_game/index.html",
+    "static/media/refresh.svg": "/Password_game/static/media/refresh.d18b1ef202681e90815ef3d334287007.svg",
+    "main.77951aa3.css.map": "/Password_game/static/css/main.77951aa3.css.map",
+    "main.8f43fa48.js.map": "/Password_game/static/js/main.8f43fa48.js.map",
+    "787.335d502d.chunk.js.map": "/Password_game/static/js/787.335d502d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77951aa3.css",
+    "static/js/main.8f43fa48.js"
+  ]
+}
